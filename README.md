@@ -1,4 +1,4 @@
-# 🎯 Bug Bounty Hunter
+# Bug Bounty Hunter
 
 > All-round bug bounty skill for Claude Code — parallelized agents for smart contract audits (EVM, Move, Solana, TRON), web/API security, and submission-ready reports for HackerOne, Bugcrowd, Intigriti & Immunefi.
 
